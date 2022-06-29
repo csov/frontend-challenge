@@ -4,7 +4,7 @@ Welcome, and thank you for taking the time to complete the Crown Sterling take-h
 
 You will have 48 hours to complete the assignment. Once you have completed your solution, please reply with a link to a github repository and instructions on how to install / run the application
 
-The goal of this challenge is to build out a "Movie Awards 2022" interactive ballot. Please clone this repository and submit it once you are finished.
+The goal of this challenge is to build out a "Movie Awards 2021" interactive ballot. Please clone this repository and submit it once you are finished.
 
 Here are the rules of this challenge.. you must:
 
